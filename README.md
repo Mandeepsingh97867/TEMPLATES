@@ -1,2 +1,2 @@
-# TEMPLATES
-A repository contains templates 
+# Template
+templates using html and css
